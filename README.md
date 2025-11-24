@@ -5,12 +5,13 @@ This project demonstrates a complete DevOps workflow by building and deploying a
 It includes containerization, Kubernetes manifests (Deployment + Service), and local cluster deployment.
 
 ## 🛠️ Tech Stack
+```
 Python 3 / Flask
 Docker
 Kubernetes (Docker Desktop)
 WSL2 – Ubuntu
 kubectl
-
+```
 ## 📂 Project Structure
 ```
 devops-demo/
